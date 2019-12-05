@@ -1,6 +1,6 @@
 Coding a typical dutch board game named "Ganzenbord" in Java.
 
-VERSION1:
+***VERSION1:***
 
 -Dice: (g)
 
@@ -8,9 +8,9 @@ VERSION1:
 
 -After dice is trown, display info as: 
 
-*Youve trown 4, you hit spot 4, no sweat!, trow again(g)
+*Youve trown 4, you are now at 4, no sweat!, trow again(g)
 
-*Youve trown 6, you hit spot 10, Bonus jump!, you hit spot 16, trow again(g).
+*Youve trown 6, you are now at 10, Bonus jump!, you are now at spot 16, trow again(g).
 
 *Youve trown 3, you are now at spot 19, no sweat!, trow again(g).
 
@@ -27,14 +27,14 @@ VERSION1:
 -Spot 10,20,30,40,50,60, bonus jump, repeat last hit pips for free.
 
 
-VERSION2:
+***VERSION2:***
 
 -Multiplayer
 
 -When passed finishing spot "63", go backwards with remaining pips. 
 (so when ur on spot 62, and you trow 3 pips, you'll end at spot 61! Next player is up. Game finished if you trow the exact pips to spot 63.
 
-VERSION3:
+***VERSION3:***
 
 -Extra rules
 
