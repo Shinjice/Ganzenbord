@@ -42,10 +42,10 @@ public class ganzenbordv1 {
             	String anyKey = pressKey.nextLine(); 
             	
             }
-            a = g();
+            a = g(); //roll new dice trow, goes back to while loop
         	}
            
-        	System.out.println("You made it to position 63, YOUVE WON!"); //if while condition (pos>63) is true, it will go out of the loop and print this     
+        System.out.println("You made it to position 63, YOUVE WON!"); //if while condition (pos>63) is true, it will go out of the loop and print this     
     }
         
                 
