@@ -1,0 +1,2 @@
+*Dice can be trown 0 (solved)
+*when 1 player hits 23, whole game quits, array remove element?
